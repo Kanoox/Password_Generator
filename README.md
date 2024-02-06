@@ -16,9 +16,6 @@ To launch the project, you will need to launch the .sln file
 
 ## Made With ?
 
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
-
-_exemples :_
 * [Visual Studio](https://visualstudio.microsoft.com/fr/) - Application Windows
 * [Stack Overflow]([https://visualstudio.microsoft.com/fr/](https://stackoverflow.com/)) - Mutual Assistance
 
