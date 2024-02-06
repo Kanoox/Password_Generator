@@ -1,5 +1,4 @@
 # Password Generator
-_(juste en dessous des badges sympatiques à placer)_
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) ![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg) ![forthebadge](https://forthebadge.com/images/badges/open-source.svg)
 
